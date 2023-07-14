@@ -1,9 +1,10 @@
 [package]
 name = "guesswhat"
-authors = ["Rahul M. Navneeth"]
+authors = ["Rahul M. Navneeth <rahulmnavneeth@gmail.com>"]
 version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
+description = "A SIMPLE CARD GAME"
 repository = "https://github.com/RahulNavneeth/guesswhat/"
 
 [dependencies]
